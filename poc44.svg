@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     onload="document.getElementById('result').textContent='Evento SVG executado!'">
+    <text id="result" x="10" y="30">Aguardando...</text>
+</svg>
